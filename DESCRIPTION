@@ -1,0 +1,14 @@
+Package: itemselectr
+Title: Select one item from a scale based on its psychometric properties 
+Version: 0.1.1
+Authors@R: 
+    person(given = "Ian",
+           family = "Hussey",
+           role = c("aut", "cre"),
+           email = "ianhusseysipod@gmail.com",
+           comment = c(ORCID = "0000-0001-8906-7559"))
+Description: Fit CFA model and return factor loading and errors. Also de-attenuate item-sum score correlations by the scale internal consistency.  
+License: GPLv3+
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
